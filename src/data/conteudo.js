@@ -3,6 +3,17 @@ export const niveisDisponiveis = ['A1', 'A2', 'B1', 'B2', 'C1', 'C2'];
 export const baseConteudo = [
   {
     nivel: 'A1',
+    titulo: 'Pronouns',
+    conceito: 'O verb to be é um dos verbos mais importantes do inglês e significa ser ou estar. Ele é utilizado para expressar identidade, estado emocional ou físico.',
+    estrutura: 'Afirmativa: I am, You are, He/She/It is.\nNegativa: I am not, Isn’t, Aren’t.\nInterrogativa: Am I...?, Are you...?',
+    exemplos: 'I am a student. / She is happy. / They are at home.',
+    exercicios: [
+      'Preencha com o verbo correto: She ___ (be) a doctor.',
+      'Passe para a negativa: They are friends.'
+    ]
+  },
+  {
+    nivel: 'A1',
     titulo: 'Verbo to Be',
     conceito: 'O verb to be é um dos verbos mais importantes do inglês e significa ser ou estar. Ele é utilizado para expressar identidade, estado emocional ou físico.',
     estrutura: 'Afirmativa: I am, You are, He/She/It is.\nNegativa: I am not, Isn’t, Aren’t.\nInterrogativa: Am I...?, Are you...?',
@@ -37,3 +48,5 @@ export const baseConteudo = [
     exercicios: ['Qual o passado de "go"?', 'Transforme "I eat" para o passado.']
   }
 ];
+
+export const tableOfContents = ['Pronouns - Object, Possesive and Reflexive', 'Present Simple - Verb to be and Auxiliary verb', 'Present Simple Continuos', 'Numbers - Ordinal and Cardinal', 'Indefinitive Article', 'Days of week, Date and Time', 'Prepositions', 'Wh Questions', 'Adverbs of frequency', 'Preposition of place', 'There is VS there are']
