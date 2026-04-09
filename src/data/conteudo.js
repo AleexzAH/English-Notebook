@@ -3,13 +3,13 @@ export const niveisDisponiveis = ['A1', 'A2', 'B1', 'B2', 'C1', 'C2'];
 export const baseConteudo = [
   {
     nivel: 'A1',
-    titulo: 'Pronouns',
-    conceito: 'O verb to be é um dos verbos mais importantes do inglês e significa ser ou estar. Ele é utilizado para expressar identidade, estado emocional ou físico.',
-    estrutura: 'Afirmativa: I am, You are, He/She/It is.\nNegativa: I am not, Isn’t, Aren’t.\nInterrogativa: Am I...?, Are you...?',
-    exemplos: 'I am a student. / She is happy. / They are at home.',
+    titulo: 'Subject Pronouns',
+    conceito: 'O subject pronoun indica a pessoa/sujeito da frase. Usada para definir sobre quem uma determinada situação refere-se.',
+    estrutura: 'Temos: \n EU - I \n VOCÊ - YOU \n ELE - HE \n ELA - SHE \n ISSO - IT \n NÓS - WE \n ELES/ELAS - THEY',
+    exemplos: 'I eat - Eu como | She work here - Ela trabalha aqui | They play videogames - Eles jogam videogames',
     exercicios: [
-      'Preencha com o verbo correto: She ___ (be) a doctor.',
-      'Passe para a negativa: They are friends.'
+      'Indique o subject correto da frase: Ele anda - _____ walk \n A)I \n B)HE \n C)THEY ',
+      ''
     ]
   },
   {
