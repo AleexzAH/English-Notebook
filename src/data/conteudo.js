@@ -5,11 +5,10 @@ export const baseConteudo = [
     nivel: 'A1',
     titulo: 'Subject Pronouns',
     conceito: 'O subject pronoun indica a pessoa/sujeito da frase. Usada para definir sobre quem uma determinada situação refere-se.',
-    estrutura: 'Temos: \n EU - I \n VOCÊ - YOU \n ELE - HE \n ELA - SHE \n ISSO - IT \n NÓS - WE \n ELES/ELAS - THEY',
+    estrutura: 'Temos: \n Eu - I \n Você - You \n Ele - He \n Ela - She \n Isso - It \n Nós - We \n Eles/Elas - They',
     exemplos: 'I eat - Eu como | She work here - Ela trabalha aqui | They play videogames - Eles jogam videogames',
     exercicios: [
-      'Indique o subject correto da frase: Ele anda - _____ walk \n A)I \n B)HE \n C)THEY ',
-      ''
+      'Indique o subject correto da frase: Ele anda - _____ walk \n A)I \n B)HE \n C)THEY '
     ]
   },
   {
