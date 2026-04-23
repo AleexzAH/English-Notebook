@@ -49,7 +49,7 @@ export const baseConteudo = [
   {
     nivel: 'B1',
     titulo: 'Reported Speech',
-    conceito: 'O reported speech(discurso indireto) é quando você repete o que alguém disse, mas sem usar exatamente as mesmas palavras. \n Ao utilizar o discurso indireto devemos aplicar a regra de backshit, que é voltar o tempo verbal do verbo inicial. Por exemplo: Amanda diz a Alex: "I am tired", assim quando Alex vai dizer a Lucas o que Amanda disse ele precisa trazer o verbo para o passado ficando assim "She said that she was tired". \n Para facilitar a conversão: \n Present Simple → Past Simple \n Present Continuous → Past Continuous \n Present Perfect → Past Perfect \n Past Simple → Past Perfect \n Will → Would Can →	Could \n May →	Might',
+    conceito: 'O reported speech(discurso indireto) é quando você repete o que alguém disse, mas sem usar exatamente as mesmas palavras.\n Ao utilizar o discurso indireto devemos aplicar a regra de backshit, que é voltar o tempo verbal do verbo inicial. Por exemplo: Amanda diz a Alex: I am tired, assim quando Alex vai dizer a Lucas o que Amanda disse ele precisa trazer o verbo para o passado ficando assim She said that she was tired. \n Para facilitar a conversão: \n Present Simple → Past Simple \n Present Continuous → Past Continuous \n Present Perfect → Past Perfect \n Past Simple → Past Perfect \n Will → Would Can →	Could \n May →	Might',
     estrutura: 'A estrtura é simples: \n Subject + verb + that + complemento',
     exemplos: 'They said that they were busy',
     exercicios: []
